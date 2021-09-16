@@ -15,7 +15,6 @@ jobs:
         run: python3 create_index.py
       
       - name: Push index.md
-        run: git add . && git commit -m "created index" && git push
         run: |
           git config --global user.name 'Deniz Cankurtaran'
           git config --global user.email 'DenizCankurtaran@users.noreply.github.com'
