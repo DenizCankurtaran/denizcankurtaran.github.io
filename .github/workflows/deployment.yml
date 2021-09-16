@@ -19,7 +19,7 @@ jobs:
           git config --global user.name 'Deniz Cankurtaran'
           git config --global user.email 'DenizCankurtaran@users.noreply.github.com'
           git add -A
-          git commit -m "created index.md"
+          git commit -m "Automatically created index.md"
           git push
 
 
