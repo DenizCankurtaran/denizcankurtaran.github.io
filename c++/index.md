@@ -2,11 +2,18 @@
 
 ## Hello World
 C++ kein paketkonzept.
-[Include](Include)
 Nur eine Main Funktion.
 
-[streams](streams)
+
+## Basics
+- [streams](streams)
+- [Include](Include)
+- [funktionen](funktionen)
+- [cmake](cmake)
+- [classes](classes)
 
 
 Kompilieren
- - 
+ - g++ -c file.cpp
+Linken
+ - g++ -o file file.o
