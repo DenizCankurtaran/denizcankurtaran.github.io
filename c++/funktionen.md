@@ -1,16 +1,11 @@
-# Deklarationen / Definitionen
-Deklaration enthält die Signatur und Infos zu der funktion.
+Funktion besteht aus Signatur und Body
 
-## Deklaration
-```
-float a()
+## Signatur
+returntyp name (parameter);
 
+## Beispiel
 ```
-
-Definition enthält die Implementierung ( Body )
-## Definition
-```
-float a () {
-  return 0.2;
+int add(int a, int b) {
+  return a + b;
 }
 ```
