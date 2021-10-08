@@ -7,7 +7,7 @@ project(getting-started)
 # set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14")
 set(CMAKE_CXX_STANDARD 14)
 set(SOURCE_FILES main.cpp )
-add_executable(test ${SOURCE_FILES})
+add_executable(executable ${SOURCE_FILES})
 ```
 
 # Verwendung
