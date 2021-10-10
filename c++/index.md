@@ -12,6 +12,7 @@
 - [variablen](variablen)
 - [loops](loops)
 - [pointers](pointers)
+- [classes structs](classes-structs)
 
 ## Lib Beispiele
 - [streams](streams)

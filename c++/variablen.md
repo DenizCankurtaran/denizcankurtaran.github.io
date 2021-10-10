@@ -1,7 +1,5 @@
 ## Primitive Datentypen
 | Typ       | Speicher |
-| ---       | ---      |
-
 | char      | 1 Byte   |
 | short     | 2 Bytes  |
 | int       | 4 Bytes  |
