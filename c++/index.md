@@ -8,7 +8,6 @@
 
 ## Syntax
 - [funktionen](funktionen)
-- [classes](classes)
 - [variablen](variablen)
 - [loops](loops)
 - [pointers](pointers)
