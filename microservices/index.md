@@ -1,0 +1,1 @@
+[go](./go/index.md)
