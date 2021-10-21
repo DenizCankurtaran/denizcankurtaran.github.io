@@ -1,5 +1,5 @@
 # Notizen von Deniz Cankurtaran
-##### last update: 20.10.2021, 14:23:20 
+##### last update: 21.10.2021, 06:06:52 
 ## Module:
  - [c++](c++/index.md)
  - [ios](ios/index.md)
