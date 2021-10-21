@@ -12,6 +12,8 @@
 - [loops](loops)
 - [pointers](pointers)
 - [classes structs](classes-structs)
+- [template](template)
+- [assert](assert)
 
 ## Lib Beispiele
 - [streams](streams)
