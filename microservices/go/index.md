@@ -16,6 +16,9 @@
  - [bytes](bytes)
  - [composite](composite)
  - [struct](struct)
+ - [conditionales](conditionales)
+ - [pointer](pointer)
+ - [scope](scope)
 
 ## Goroutines
  - [goroutines](goroutines)

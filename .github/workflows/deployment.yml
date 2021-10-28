@@ -21,5 +21,3 @@ jobs:
           git add -A
           git commit -m "Automatically created index.md"
           git push
-
-

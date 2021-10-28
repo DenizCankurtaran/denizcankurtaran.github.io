@@ -24,3 +24,15 @@ The value of a const can be a
  - Boolean
  - Number
 
+## Multple declaration
+
+```
+var a, b, c, d, e, f int
+var a, b, c = true, 2.5, "Hello"
+a, b, c := true, 2.5, "Hello"
+```
+
+## Swap variables
+```
+a, b = b, a
+```

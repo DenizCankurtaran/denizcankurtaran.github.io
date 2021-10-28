@@ -29,3 +29,9 @@ strings.Split(names, '\n')
 ```
 fmt.Printf("type: %T value: %d", 4.123123123)
 ```
+
+## Fprintf
+Needs an io.Writer object
+```
+fmt.Fprintf(os.Stdout, "type: %T value: %d", 4.123123123)
+```
