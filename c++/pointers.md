@@ -54,3 +54,11 @@ int a = 5;
 Increment(a);
 LOG(a);
 ```
+
+# -> syntax
+Pointer können auf member attribute/ funktionen mit -> zugreifen
+```
+Object x;
+Object* ptr = &x;
+ptr->blah();
+```

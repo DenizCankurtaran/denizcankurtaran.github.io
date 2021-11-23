@@ -14,6 +14,7 @@
 - [classes structs](classes-structs)
 - [template](template)
 - [assert](assert)
+- [speicher](speicher)
 
 ## Lib Beispiele
 - [streams](streams)
